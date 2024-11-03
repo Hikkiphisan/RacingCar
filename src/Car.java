@@ -39,3 +39,4 @@ public class Car implements Runnable {
         System.out.println(endTime-startTime);
    }
 }
+//gụi
